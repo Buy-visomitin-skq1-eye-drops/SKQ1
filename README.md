@@ -79,5 +79,15 @@ For search engines / Science / Mitochondria
 * SkQ1 regulates expression of Nrf2, ARE-controlled genes encoding antioxidant enzymes, and their activity in cerebral cortex under oxidative stress doi: 10.1134/S0006297917080090
 * Mitochondria-Targeted Plastoquinone Antioxidant SkQ1 Prevents Amyloid-β-Induced Impairment of Long-Term Potentiation in Rat Hippocampal Slices doi: 10.3233/JAD-122428
 * Effects of the mitochondria-targeted antioxidant SkQ1 on sexually motivated behavior in male rats doi: 10.1016/j.pbb.2010.05.007
+* Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 5. SkQ1 prolongs lifespan and prevents development of traits of senescence doi: 10.1134/S0006297908120055
+* Influence of SkQ1 on expression of Nrf2 transcription factor gene, ARE-controlled genes of antioxidant enzymes and their activity in rat blood leukocytes doi: 10.1134/S0006297915050107
+* Preventive and therapeutic effects of SkQ1-containing Visomitin eye drops against light-induced retinal degeneration doi: 10.1134/S0006297914100113
+* Reactive oxygen species produced in mitochondria are involved in age-dependent changes of hematopoietic and mesenchymal progenitor cells in mice. A study with the novel mitochondria-targeted antioxidant SkQ1 doi: 10.1016/j.mad.2010.06.003
+* Ameliorative effects of SkQ1 eye drops on cataractogenesis in senescence-accelerated OXYS rats doi: 10.1007/s00417-014-2806-0
+* The mitochondria-targeted antioxidant SkQ1 restores αB-crystallin expression and protects against AMD-like retinopathy in OXYS rats doi: 10.4161/15384101.2014.958393
+* The novel mitochondria-targeted antioxidant SkQ1 modulates angiogenesis and inflammatory micromilieu in a murine orthotopic model of pancreatic cancer doi: 10.1002/ijc.30054
+* Efficacy of Mitochondrial Antioxidant Plastoquinonyl-decyl-triphenylphosphonium Bromide (SkQ1) in the Rat Model of Autoimmune Arthritis doi: 10.1155/2016/8703645
+* Suppression of Alzheimer’s Disease-Like Pathology Progression by Mitochondria-Targeted Antioxidant SkQ1: A Transcriptome Profiling Study doi: 10.1155/2019/3984906
+* Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 3. Inhibitory effect of SkQ1 on tumor development from p53-deficient cells doi: 10.1134/S0006297908120031
 
 
