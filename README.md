@@ -61,5 +61,23 @@ For search engines / Science / Mitochondria
 * The Role of SKQ1 (Visomitin) in Inflammation and Wound Healing of the Ocular Surface doi: 10.1007/s40123-018-0158-2
 * Antioxidant SkQ1 delays sarcopenia-associated damage of mitochondrial ultrastructure doi: 10.18632/aging.100636
 * Mitochondria-Targeted Antioxidant SkQ1 Prevents Anesthesia-Induced Dry Eye Syndrome doi: 10.1155/2017/9281519
+* The mitochondria-targeted antioxidant SkQ1 but not N-acetylcysteine reverses aging-related biomarkers in rats doi: 10.18632/aging.100493
+* Therapeutic Effect of the Mitochondria-Targeted Antioxidant SkQ1 on the Culture Model of Multiple Sclerosis doi: 10.1155/2019/2082561
+* Therapeutic Action of the Mitochondria-Targeted Antioxidant SkQ1 on Retinopathy in OXYS Rats Linked with Improvement of VEGF and PEDF Gene Expression doi: 10.1371/journal.pone.0021682 
+* Interrelations of mitochondrial fragmentation and cell death under ischemia/reoxygenation and UV-irradiation: Protective effects of SkQ1, lithium ions and insulin doi: 10.1016/j.febslet.2008.08.002
+* Mitochondria-Targeted Antioxidants SkQ1 and MitoTEMPO Failed to Exert a Long-Term Beneficial Effect in Murine Polymicrobial Sepsis 10.1155/2017/6412682
+* In vivo immunoregulatory properties of the novel mitochondria-targeted antioxidant SkQ1 doi: 10.1016/j.molimm.2012.04.010
+* Suppression of AMD-Like Pathology by Mitochondria-Targeted Antioxidant SkQ1 Is Associated with a Decrease in the Accumulation of Amyloid β and in mTOR Activity doi: 10.3390/antiox8060177
+* Mitochondria-Targeted Antioxidant SkQ1 Improves Dermal Wound Healing in Genetically Diabetic Mice doi: 10.1155/2017/6408278
+* SkQ1 Suppresses the p38 MAPK Signaling Pathway Involved in Alzheimer’s Disease-Like Pathology in OXYS Rats 10.3390/antiox9080676
+* Influence of antioxidant SkQ1 on accumulation of mitochondrial DNA deletions in the hippocampus of senescence-accelerated OXYS rats doi: 10.1134/S0006297915050120
+* Antioxidant SkQ1 Alleviates Signs of Alzheimer’s Disease-like Pathology in Old OXYS Rats by Reversing Mitochondrial Deterioration doi: 10.2174/1567205014666170621111033
+* Mitochondria-targeted antioxidant SKQ1 protects cornea from oxidative damage induced by ultraviolet irradiation and mechanical injury doi: 10.1186/s12886-018-0996-7
+* Mitochondria-targeted antioxidant SkQ1 reverses glaucomatous lesions in rabbits 
+* Mitochondria-targeted antioxidant SkQ1 suppresses fibrosarcoma and rhabdomyosarcoma tumour cell growth doi: 10.1080/15384101.2018.1496748
+* SkQ1 slows development of age-dependent destructive processes in retina and vascular layer of eyes of wistar and OXYS rats doi: 10.1134/S0006297912060120
+* SkQ1 regulates expression of Nrf2, ARE-controlled genes encoding antioxidant enzymes, and their activity in cerebral cortex under oxidative stress doi: 10.1134/S0006297917080090
+* Mitochondria-Targeted Plastoquinone Antioxidant SkQ1 Prevents Amyloid-β-Induced Impairment of Long-Term Potentiation in Rat Hippocampal Slices doi: 10.3233/JAD-122428
+* Effects of the mitochondria-targeted antioxidant SkQ1 on sexually motivated behavior in male rats doi: 10.1016/j.pbb.2010.05.007
 
 
