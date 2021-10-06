@@ -89,5 +89,14 @@ For search engines / Science / Mitochondria
 * Efficacy of Mitochondrial Antioxidant Plastoquinonyl-decyl-triphenylphosphonium Bromide (SkQ1) in the Rat Model of Autoimmune Arthritis doi: 10.1155/2016/8703645
 * Suppression of Alzheimer’s Disease-Like Pathology Progression by Mitochondria-Targeted Antioxidant SkQ1: A Transcriptome Profiling Study doi: 10.1155/2019/3984906
 * Mitochondria-targeted plastoquinone derivatives as tools to interrupt execution of the aging program. 3. Inhibitory effect of SkQ1 on tumor development from p53-deficient cells doi: 10.1134/S0006297908120031
+* Antioxidant mechanism of mitochondria-targeted plastoquinone SkQ1 is suppressed in aglycemic HepG2 cells dependent on oxidative phosphorylation doi: 10.1016/j.bbabio.2017.05.005
+* New Data on Effects of SkQ1 and SkQT1 on Rat Liver Mitochondria and Yeast Cells doi: 10.1134/S0006297918050085
+* Genetic variability of the AcrAB-TolC multidrug efflux pump underlies SkQ1 resistance in gram-negative bacteria
+* Age-associated murine cardiac lesions are attenuated by the mitochondria-targeted antioxidant SkQ1  doi: 10.14670/HH-30.353
+* New antioxidant SkQ1 is an effective protector of rat eye retinal pigment epithelium and choroid under conditions of long-term organotypic cultivation doi:10.4236/aar.2012.12004
+* Effects of mitochondrial antioxidant SkQ1 on biochemical and behavioral parameters in a Parkinsonism model in mice doi:10.1134/S0006297917120100
+* The therapeutic effect of mitochondria-targeted antioxidant SkQ1 and Cistanche deserticola is associated with increased levels of tryptophan and kynurenine in the rat lens doi:10.1134/S1607672912060087
+* Mitochondria-targeted antioxidant SkQ1 (10-(6′-plastoquinonyl)decyltriphenylphosphonium bromide) inhibits mast cell degranulation in vivo and in vitro doi: 10.1134/S0006297917120082
+* Antioxidants resveratrol and SkQ1 attenuate praziquantel adverse effects on the liver in Opisthorchis felineus infected hamsters doi:10.1016/j.actatropica.2021.105954
 
 
